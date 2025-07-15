@@ -25,9 +25,7 @@ This project involved cleaning and analyzing a sales dataset using Python. I exp
 - To increase revenue, the business could consider targeted promotions or seasonal strategies for underperforming categories.
 
 ## 📁 Files Included
-– Python script for cleaning and analysis
-- `sales_data.csv` – Cleaned sales dataset 
-- `sales_by_category.png` – Visualization 
+– 'sales.py' - Python script for cleaning and analysis
 
 ## 👩‍💻 About Me
 I'm a statistics student and aspiring data analyst. This project is part of my personal portfolio showcasing my ability to clean data, perform EDA, and extract actionable business insights using Python.
