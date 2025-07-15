@@ -16,7 +16,8 @@ This project involved cleaning and analyzing a sales dataset using Python. I exp
 - Built a bar chart to visualize total sales for Electronics, Books, and Clothing
 
 ## 📊 Key Visualization
-*(Chart image can be added here later — e.g., sales_by_category.png)*
+<img width="1000" height="600" alt="total_sales_by_category" src="https://github.com/user-attachments/assets/d6ce6b4f-7331-421c-b062-2cb3258fd11a" />
+
 
 ## 💡 Final Insights
 - **Electronics** had the highest total sales overall, suggesting strong demand in this category.
@@ -24,7 +25,7 @@ This project involved cleaning and analyzing a sales dataset using Python. I exp
 - To increase revenue, the business could consider targeted promotions or seasonal strategies for underperforming categories.
 
 ## 📁 Files Included
-- `sales_analysis.py` – Python script for cleaning and analysis
+– Python script for cleaning and analysis
 - `sales_data.csv` – Cleaned sales dataset 
 - `sales_by_category.png` – Visualization 
 
